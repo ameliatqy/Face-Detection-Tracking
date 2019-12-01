@@ -1,6 +1,6 @@
-# Face-Detection-Tracking
+# Face Detection and Tracking System Software
 
-🏆**Winner of Georgia Tech's Mechatronic Expo 2017**
+🏆**Winner of Georgia Tech's Mechatronics Expo 2017**
 
 This repository contains the software code for the final project ofGeorgia Tech's Introduction to Mechatronics Class (ME 4405), which took place in Fall 2017. The objective of this project was to design and build a device that detects and tracks a person's face in two dimensions (up/down, left/right). The main purpose of the system is to move the camera so that the person's face is centered in the camera's frame.
 
